@@ -89,19 +89,19 @@ const Experience: React.FC = () => {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div className="text-center">
                   <div className="text-4xl font-bold text-[var(--primary)] mb-2">
-                    {new Date().getFullYear() - 2018}+
+                    {new Date().getFullYear() - 2024}+
                   </div>
                   <div className="text-[var(--text-secondary)]">Years Experience</div>
                 </div>
                 <div className="text-center">
                   <div className="text-4xl font-bold text-[var(--primary)] mb-2">
-                    50+
+                    5+
                   </div>
                   <div className="text-[var(--text-secondary)]">Projects Completed</div>
                 </div>
                 <div className="text-center">
                   <div className="text-4xl font-bold text-[var(--primary)] mb-2">
-                    25+
+                    3+
                   </div>
                   <div className="text-[var(--text-secondary)]">Happy Clients</div>
                 </div>
@@ -115,3 +115,4 @@ const Experience: React.FC = () => {
 };
 
 export default Experience;
+
