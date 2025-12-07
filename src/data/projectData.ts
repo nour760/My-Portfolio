@@ -70,4 +70,83 @@ export const projects: Project[] = [
     featured: true,
     year: 2025,
   },
+    {
+    id: 4,
+    title: "Nissan Coffee",
+    description:
+      "Modern business card design for Nissan cafe",
+    longDescription:
+      'The Nissan Café business card is designed in a modern style that reflects the places identity and its calm, classic character, relying on a harmonious blend of colors inspired by the warm ambiance of coffee.',
+    category: "typography",
+    technologies: ["Adobe Illustrator", "Adobe Photoshop","Mockups"],
+    images: [
+      "/project-images/nissan-coffee/m1.jpg",
+    ],
+    featured: true,
+    liveUrl: "https://example.com",
+    year: 2025,
+  },
+   {
+    id: 5,
+    title: "Adv",
+    description:
+      "Let your design talk about you",
+    longDescription:
+      'This design focuses on expressing creativity and distinction among competitors; in other words, the visual identity is the first voice that speaks for you before any words you say.',
+    category: "social media",
+    technologies: ["Adobe Illustrator", "Adobe Photoshop","Mockups"],
+    images: [
+      "/project-images/adv/m1.jpg",
+    ],
+    featured: true,
+    liveUrl: "https://example.com",
+    year: 2025,
+  }, {
+    id: 6,
+    title: "Home coffee",
+    description:
+      "A warm identity that combines the spirit of coffee and the comfort of home",
+    longDescription:
+      'The Home Coffee logo reflects the concept of a place that combines comfort and style in a harmonious design, conveying a sense of warmth and tranquility. The logo relies on simple, clean lines that highlight a modern aesthetic.',
+    category: "Visual Identity",
+    technologies: ["Adobe Illustrator", "Adobe Photoshop","Mockups"],
+    images: [
+      "/project-images/home-coffee/m1.jpg",
+    ],
+    featured: true,
+    liveUrl: "https://example.com",
+    year: 2025,
+  },
+    {
+    id: 7,
+    title: "ENTERX",
+    description:
+      "The logo symbolizes progress and growth.",
+    longDescription:
+      'The X logos design was inspired by the concept of continuous evolution and growth to reflect the journey of building software',
+    category: "Visual Identity",
+    technologies: ["Adobe Illustrator", "Adobe Photoshop","Mockups"],
+    images: [
+      "/project-images/enter-x/m1.jpg",
+    ],
+    featured: true,
+    liveUrl: "https://example.com",
+    year: 2025,
+  },
+    {
+    id: 8,
+    title: "aégle",
+    description:
+  "Modern informal social media design for an olive oil advertisement",
+    longDescription:
+      'The design reflects the spirit of authenticity and freshness that characterizes natural olive oil, relying on warm and natural colors such as olive green, beige, and golden yellow, giving the viewer a sense of nature, health, purity, and product quality in an attractive visual way.',
+    category: "social media",
+    technologies: ["Adobe Illustrator", "Adobe Photoshop","Mockups"],
+    images: [
+      "/project-images/aegle/m1.jpg",
+    ],
+    featured: true,
+    liveUrl: "https://example.com",
+    year: 2025,
+  }
 ];
